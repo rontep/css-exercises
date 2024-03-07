@@ -2,7 +2,17 @@
     background-color: rgb(255, 0, 102);
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
+
 #second {
     color: blue;
     font-size: 36px;
+}
+
+.medium {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: lightgreen;
+    font-weight: bold;
 }
