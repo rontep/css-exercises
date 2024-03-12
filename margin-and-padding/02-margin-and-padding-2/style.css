@@ -13,17 +13,19 @@ body {
 .title {
   background: #e3f4ff;
   font-size: 16px;
-  margin: 8px;
+  margin-top: 0px;
+  margin-bottom: 8px;
+  padding: 8px;
 }
 
 .content {
   background: #e3f4ff;
-  margin: 16px 8px;
+  margin: 8px 0px;
+  padding: 16px 8px;
 }
 
 .button-container {
   background: #e3f4ff;
-  margin: 8px;
   padding: 8px;
   text-align: center;
 }
